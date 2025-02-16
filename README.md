@@ -6,6 +6,7 @@ Create EC2 Instance Resource Webpage (source code provided in GitHub link " http
 This project involves setting up an AWS EC2 instance to host a webpage accessible via its public IP. 
 The instance will be launched in a customized VPC and configured with the necessary security rules to allow SSH, ICMP, and HTTP traffic.
 
+![up-running](https://github.com/user-attachments/assets/9da71caa-e96a-42f1-b45f-1a71c8b4e82f)
 
 
 ### Project Specifications:
