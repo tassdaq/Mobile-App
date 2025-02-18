@@ -1,4 +1,4 @@
-# Mobile Webapp Deployment on utuntu nginx webserver:
+# Mobile Webapp Deployment on ubuntu nginx webserver:
 Create EC2 Instance Resource Webpage (source code provided in GitHub link " https://github.com/tassdaq/Mobile-App.git " publish on Public IP
 
 ## Description:
