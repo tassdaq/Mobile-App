@@ -1,5 +1,5 @@
 # Project Title:
-Create EC2 Instance Resource Webpage (source code provided in GitHub link " https://github.com/tassdaq/webserver.git " publish on Public IP
+Create EC2 Instance Resource Webpage (source code provided in GitHub link " https://github.com/tassdaq/Mobile-App.git " publish on Public IP
 
 ## Description:
 This project involves setting up an AWS EC2 instance to host a webpage accessible via its public IP. 
