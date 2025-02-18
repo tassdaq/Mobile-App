@@ -49,13 +49,4 @@ A publicly accessible webpage hosted on the EC2 instance, accessible via its pub
 	
 
  
- ![vpc-11](https://github.com/user-attachments/assets/b376565f-9d41-443f-9ad2-b505264abeb3)
-![US-Region-1](https://github.com/user-attachments/assets/75aba4c1-ab5d-416d-8f61-80c7b675dac8)
-![up-running](https://github.com/user-attachments/assets/b1821154-a5c9-45aa-8a13-249c53f48dc2)
-![subnet](https://github.com/user-attachments/assets/2d411e4d-0437-4b58-beb7-fca8cbc4a9a8)
-![SG-2](https://github.com/user-attachments/assets/41efc00d-3d5b-488c-ae9e-b7cf88783aa6)
-![SG-1](https://github.com/user-attachments/assets/f0649a34-cda4-47c6-8d68-24367d715c13)
-![Route-Table](https://github.com/user-attachments/assets/3c2d4a2d-8fe5-4945-b452-84168eb24312)
-![Internet-Gateway](https://github.com/user-attachments/assets/0de804a8-2b62-405d-8613-cd11d43808a6)
-![image2](https://github.com/user-attachments/assets/68354ea2-4d82-43f5-ae1a-18e9bbbb05b3)
-![image](https://github.com/user-attachments/assets/a0020603-1d3d-49b5-b42b-ee918a80e931)
+
